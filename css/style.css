@@ -1,0 +1,14 @@
+.cupcakes {
+    padding: 15px;
+    width: 45%;
+    float: left;
+}
+
+.flashy {
+    color: red;
+    font-style: italic;
+}
+
+.best {
+    color: blue;
+}
